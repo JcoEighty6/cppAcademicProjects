@@ -1,0 +1,11 @@
+john smith 5
+Robert robertson 25
+carl Carlson 15
+bob dole 100
+NEO AndErSoN 1
+jon johnson 35
+slim jim 20
+mega man 39
+zeek greek 56
+tom thompson 34
+ill will 21
